@@ -10,5 +10,6 @@ function populateTrains() {
       });
       $('#trains').html(trainsContent);
       $('#trains').on('click', 'div a.linkshowtrain', showTrainInfo);
+      print("hello world!");
     });
   };
