@@ -12,5 +12,6 @@ function populateTrains() {
       $('#trains').on('click', 'div a.linkshowtrain', showTrainInfo);
       
       print("hello India!");
+      print("Are you sure you're doing it right.")
     });
   };
